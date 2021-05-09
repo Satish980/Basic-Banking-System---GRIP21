@@ -1,6 +1,7 @@
 # Basic-Banking-System---GRIP21
-# This Repo Consist of Codes of Basic Banking System Task By Spark Foundation
-
+This Repo Consist of Codes of Basic Banking System Task By Spark Foundation
+Frontend Technologies : HTML, CSS, Javascript, Bootstrap
+Backend  Technologies : PHP
 # Problem Statement
 ◇ Create a simple dynamic website which has the following specs.
 ◇ Start with creating a dummy data in database for upto 10 
